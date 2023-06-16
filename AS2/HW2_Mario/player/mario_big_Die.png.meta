@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f0837b32-6b0f-453a-8ecb-49e1b253d71a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 16,
+  "height": 28,
+  "platformSettings": {},
+  "subMetas": {
+    "mario_big_Die": {
+      "ver": "1.0.6",
+      "uuid": "b14d62a0-352c-4b13-bd82-a829f70831b1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f0837b32-6b0f-453a-8ecb-49e1b253d71a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 16,
+      "height": 28,
+      "rawWidth": 16,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

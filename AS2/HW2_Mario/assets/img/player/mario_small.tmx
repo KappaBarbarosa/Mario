@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="18" tileheight="18" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="mario_small" tilewidth="18" tileheight="18" tilecount="33" columns="11">
+  <image source="../AS2_source/player/mario_small.png" width="198" height="54"/>
+ </tileset>
+ <layer id="1" name="圖塊層 1" width="1" height="1">
+  <data encoding="csv">
+24
+</data>
+ </layer>
+</map>

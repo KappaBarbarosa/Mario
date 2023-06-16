@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SmallMario",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cf8fc652-80c9-4bf3-9b9f-b526b77770a9"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "31145473-b911-48f5-956f-649b70587c7d"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "47573c9c-47c6-4a7a-b480-9d82a3079a98"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "cf8fc652-80c9-4bf3-9b9f-b526b77770a9"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "de8965be-0947-4ac8-ad78-53a46ea651b6"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "f5c5175b-6584-455d-9e48-045c4108bffd"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8af94962-202f-4967-a082-969ef547d3fd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

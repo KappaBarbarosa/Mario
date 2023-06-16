@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SMJump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b0b7034f-5e87-4352-8320-cc97c26bf592"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "b0b7034f-5e87-4352-8320-cc97c26bf592"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "b0b7034f-5e87-4352-8320-cc97c26bf592"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "b0b7034f-5e87-4352-8320-cc97c26bf592"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

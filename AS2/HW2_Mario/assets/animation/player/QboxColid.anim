@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "QboxColid",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0487e960-025c-4fa6-8857-a4a3a948a9cc"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 160
+        },
+        {
+          "frame": 0.1,
+          "value": 162.5
+        },
+        {
+          "frame": 0.2,
+          "value": 165
+        },
+        {
+          "frame": 0.3,
+          "value": 162.5
+        },
+        {
+          "frame": 0.4,
+          "value": 160
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "ColidDone",
+      "params": []
+    }
+  ]
+}

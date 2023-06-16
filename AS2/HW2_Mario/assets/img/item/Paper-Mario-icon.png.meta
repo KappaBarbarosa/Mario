@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cd495f87-b8e8-47f3-993f-9d8ea459408e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "Paper-Mario-icon": {
+      "ver": "1.0.6",
+      "uuid": "f5608153-c056-4da4-97cf-9ad9aba7d9a2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cd495f87-b8e8-47f3-993f-9d8ea459408e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 0,
+      "width": 48,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
